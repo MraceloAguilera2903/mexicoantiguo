@@ -1,0 +1,48 @@
+body{background: floralwhite;}
+
+dbody{background: url(../mexicoantiguo/fondo1.jpg);}
+
+.cero{background-color:#F1C40F  ;
+    width: 100%;
+font-family:"arial";
+font-size: 70px;}
+
+header nav{ background:#239B56 ;
+    width: 10%;
+}
+
+article h3{background: #F1C40F;
+    width: 55%;
+font-size: 40px;
+}
+
+
+
+.uno{background: rgb(255, 255, 255);
+   border: #000;
+    width: 24%;
+}
+
+.dos{ background: rgb(255, 255, 255);
+font-size: 25px;    
+width: 100%;
+}
+
+.tres  {background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: 68%;
+position: relative;
+top:0px;
+bottom:0px;
+right:0px;
+left: ;
+}
+ 
+aside{background: rgb(255, 255, 255);
+    font-size: 25PX;
+width:32%;
+position: relative ;
+top: -800px;
+bottom:0px;
+right:0px;
+left: 910px;}
